@@ -13,7 +13,7 @@ G03 想不到組名
 
 - [投影片](./G03_slides.pdf)
 - [書面報告](./G03_report.pdf)  
-- [專案網站](./index.html)
+- [專案網站](rlads2021.github.io/project-derekdylu/index.html)
 
 
 ## 其他
