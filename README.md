@@ -2,11 +2,15 @@ G03 想不到組名
 ======================
 
 成員：朱修平、盧德原、楊舒晴、陳宛瑩
-[![Website](https://img.shields.io/website?down_message=offline&up_color=lime&url=https%3A%2F%2Fderekdylu.github.io%2F)](https://rlads2021.github.io/project-derekdylu/index.html)
 
 ## 題目
 
 國寫在升大學考試之國文科目中，與選擇題各佔一半分數之比重，惟我國之國文教學，向來重視古文閱讀、國學常識等，在教學大綱中以選擇題的答寫作為主要教學方向，許多學生對於國寫部分之掌握能力相對不足。因此，本組希望透過分析國寫情意題佳作詞頻，進一步洞察國寫在我國命題方向與佳作取材等寫作方式。
+
+
+## 結果呈現專案網站
+
+[![Website](https://img.shields.io/website?down_message=offline&up_color=lime&url=https%3A%2F%2Fderekdylu.github.io%2F)](https://rlads2021.github.io/project-derekdylu/index.html)
 
 
 ## 連結
