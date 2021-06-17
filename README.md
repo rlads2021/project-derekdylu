@@ -2,7 +2,7 @@ G03 想不到組名
 ======================
 
 成員：朱修平、盧德原、楊舒晴、陳宛瑩
-
+[![Website](https://img.shields.io/website?down_message=offline&up_color=lime&url=https%3A%2F%2Fderekdylu.github.io%2F)](https://rlads2021.github.io/project-derekdylu/index.html)
 
 ## 題目
 
