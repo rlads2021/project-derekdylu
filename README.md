@@ -17,6 +17,16 @@ G03 想不到組名
 - [Original Repository](https://github.com/derekdylu/LING5505-Final-Project-Group3)
 
 
+## 根目錄說明文件
+
+- [index_files/](./index_files/): 網頁相依檔案。
+- [site_libs/](./site_libs/): 網頁相依檔案。
+- [assets/](./assets/): 網頁相依檔案。
+- [index.html](./index.html): 入口網頁。
+- [rmd.html](./rmd.html): R專案結果網頁。
+- [sense.html](./sense.html): Python專案結果網頁。
+
+
 ## 其他
 
 ### Things required for compiling the Python file
