@@ -14,6 +14,7 @@ G03 想不到組名
 - [投影片](./G03_slides.pdf)
 - [書面報告](./G03_report.pdf)  
 - [專案網站](https://rlads2021.github.io/project-derekdylu/index.html)
+- [Original Repository](https://github.com/derekdylu/LING5505-Final-Project-Group3)
 
 
 ## 其他
