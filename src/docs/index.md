@@ -1373,6 +1373,7 @@ display(words_cnt_VA.head(10))
 
 以上我們統計了幾個特定詞性在所有資料集的單詞出現頻率。
 
-+ 回到[R Project 研究結果頁面](https://rlads2021.github.io/project-derekdylu/rmd.html)
+## 連結
+
++ 回到[R Project 研究結果頁面](https://rlads2021.github.io/project-derekdylu/src/web/index.html)
 + 回到[入口頁面](https://rlads2021.github.io/project-derekdylu/index.html)
-+ 回到[本頁面頂部](https://rlads2021.github.io/project-derekdylu/sense.html)
