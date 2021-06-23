@@ -9,6 +9,7 @@
 
 **Part3**
 + [word.r](./word.r): 文章結構相似性分析。
++ [similarity_first_last.r](./similarity_first_last.r): 文章結構相似性分析。
 + [word.xlsx](./word.xlsx): 文章結構相似性分析相依檔案。
 + [frequency_30_word.xlsx](./frequency_30_word.xlsx): 文章結構相似性分析相依檔案。
 
@@ -18,3 +19,5 @@
 **呈現網頁**
 + [web/](./web/): R專案網頁與其相依檔案。
 + [site/](./site/): Python專案網頁與其相依檔案。
++ [docs/](./docs/): Python專案網頁相依檔案。
++ [mkdocs.yml](./mkdocs.yml): Python專案網頁相依檔案。
