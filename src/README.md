@@ -12,6 +12,7 @@
 + [similarity_first_last.r](./similarity_first_last.r): 文章結構相似性分析。
 + [word.xlsx](./word.xlsx): 文章結構相似性分析相依檔案。
 + [frequency_30_word.xlsx](./frequency_30_word.xlsx): 文章結構相似性分析相依檔案。
++ [stopwords.txt](./stopwords.txt): 文章結構相似性分析相依檔案。
 
 **Part4**
 + [sense.ipynb](./sense.ipynb): 文章詞彙頻率、詞性與詞意量分析。
