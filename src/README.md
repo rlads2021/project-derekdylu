@@ -16,8 +16,5 @@
 + [sense.ipynb](./sense.ipynb): 文章詞彙頻率、詞性與詞意量分析。
 
 **呈現網頁**
-+ [rmd.html](./rmd.html): R專案結果網頁。
-+ [sense.html](./sense.html): Python專案結果網頁。
-+ [index_files/](./index_files/): R專案網頁相依檔案。
-+ [site_libs/](./site_libs/): R專案網頁相依檔案。
-+ [site/](./site/): Python專案網頁相依檔案。
++ [web/](./web/): R專案網頁與其相依檔案。
++ [site/](./site/): Python專案網頁與其相依檔案。
