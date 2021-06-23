@@ -14,3 +14,7 @@
 
 **Part4**
 + [sense.ipynb](./sense.ipynb): 文章詞彙頻率、詞性與詞意量分析。
+
+**呈現網頁**
++ [web/](./web/): R專案網頁與其相依檔案。
++ [site/](./site/): Python專案網頁與其相依檔案。
