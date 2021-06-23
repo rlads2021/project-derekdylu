@@ -25,8 +25,6 @@ G03 想不到組名
 
 - [assets/](./assets/): 入口網頁相依檔案。
 - [index.html](./index.html): 入口網頁。
-- [rmd.html](./rmd.html): R專案結果網頁。
-- [sense.html](./sense.html): Python專案結果網頁。
 
 
 ## 其他
